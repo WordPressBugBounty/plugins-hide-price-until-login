@@ -1,0 +1,1 @@
+# plugins-hide-price-until-login
